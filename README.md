@@ -26,8 +26,9 @@
                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠘⡇⠀⠀⠀⠀⠀⠀⠐⠀⣼⠀⠀⠀⠀⠀⠀⠀                                                      
                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠀⠀⠈⠀⠀⠀⠀⠀⠠⠃⢀⡟⠀⠀⠀⠀⠀⠀⠀                                                      
                                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠀⠀⠀⠀⠀⠠⠀⠁⣀⠜⠀⠀⠀⠀⠀⠀⠀⠀                                                      
-
-
+<!---
+https://emojicombos.com/deer-head-ascii-art
+--->
 - 👀 I’m interested in IoT and IIoT, Digital Transformation and 3D printing.
 - 🌱 I’m currently learning how NOT to digitally transform as a large manufacturing company :collision: and still make important contributions in such an environment as a small team :rocket:.
 - 💞️ I’m looking to collaborate on IoT/IIoT projects and edge computing.
